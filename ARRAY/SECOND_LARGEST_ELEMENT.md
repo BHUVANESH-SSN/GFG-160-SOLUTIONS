@@ -62,14 +62,23 @@ public:
     }
 };
 ```
-###⏱️ Time Complexity: O(n) — Single pass through the array
-✅ Summary:
-## Approach	               Time Complexity    	Space Complexity       	Method
-### Sorting Method          	O(n * log(n))	   O(1)	                Brute-force
-### Optimal One-Pass            	O(n)	         O(1)	                Efficient ✅
 
-📝 Note:
-Both approaches assume the array has at least two distinct elements. If no second largest exists, -1 is returned.
+## ⏱️ Time Complexity:  
+O(n) — Single pass through the array
+
+---
+
+## ✅ Summary:
+
+| Approach            | Time Complexity | Space Complexity | Method         |
+|---------------------|-----------------|------------------|----------------|
+| Sorting Method      | O(n * log(n))    | O(1)             | Brute-force    |
+| Optimal One-Pass    | O(n)             | O(1)             | Efficient ✅    |
+
+
+
+## 📝 Note:
+# Both approaches assume the array has at least two distinct elements. If no second largest exists, -1 is returned.
 
 
 
