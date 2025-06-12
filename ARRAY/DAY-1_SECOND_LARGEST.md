@@ -77,8 +77,8 @@ O(n) — Single pass through the array
 
 
 
-## 📝 Note:
-# Both approaches assume the array has at least two distinct elements. If no second largest exists, -1 is returned.
+# 📝 Note:
+## Both approaches assume the array has at least two distinct elements. If no second largest exists, -1 is returned.
 
 
 
