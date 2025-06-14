@@ -24,7 +24,7 @@ void reverseArray(vector<int> &arr) {
 }
 
 ```
-## 🧠 Explanation
+### 🧠 Explanation
 -This approach uses a new array to store the reversed version of the input.
 
 -We copy the elements from the end of the original array to the beginning of the temp array.
