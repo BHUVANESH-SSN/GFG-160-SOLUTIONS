@@ -100,10 +100,10 @@ void rotateArr(vector<int>& arr, int d) {
 **Space**: O(n)
 
 ## 📊 Summary
--Approach	Time Complexity	Space Complexity	Notes
--Brute Force (Sol 1)	O(n * d)	O(1)	Simple but slow for large d
--Reversal Method (Sol 2)	O(n)	O(1)	Efficient and in-place
--Temp Array (Sol 3)	O(n)	O(n)	Easy logic but uses extra space
+### -Approach	Time Complexity	Space Complexity	Notes
+### -Brute Force (Sol 1)	O(n * d)	O(1)	Simple but slow for large d
+### -Reversal Method (Sol 2)	O(n)	O(1)	Efficient and in-place
+### -Temp Array (Sol 3)	O(n)	O(n)	Easy logic but uses extra space
 
 ##👨‍💻 All solutions are written by me as part of my GeeksforGeeks learning journey. Feel free to use or contribute!
 
