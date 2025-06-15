@@ -105,7 +105,7 @@ void rotateArr(vector<int>& arr, int d) {
 ### -Reversal Method (Sol 2)	O(n)	O(1)	Efficient and in-place
 ### -Temp Array (Sol 3)	O(n)	O(n)	Easy logic but uses extra space
 
-##👨‍💻 All solutions are written by me as part of my GeeksforGeeks learning journey. Feel free to use or contribute!
+## 👨‍💻 All solutions are written by me as part of my GeeksforGeeks learning journey. Feel free to use or contribute!
 
 
 
