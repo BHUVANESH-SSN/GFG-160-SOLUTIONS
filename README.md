@@ -17,16 +17,16 @@ This repository serves as a **personal roadmap to mastering data structures and 
 
 Each problem is organized under its topic:
 
---📁 Arrays/
---📁 Strings/
---📁 Trees/
---📁 LinkedLists/
---📁 Dynamic Programming/
---📁 SearchingSorting/
---📁 Graphs/
---📁 Greedy/
---📁 Recursion/
---📁 StackQueue/
+### 📁 Arrays/
+### 📁 Strings/
+### 📁 Trees/
+### 📁 LinkedLists/
+### 📁 Dynamic Programming/
+### 📁 SearchingSorting/
+### 📁 Graphs/
+### 📁 Greedy/
+### 📁 Recursion/
+### 📁 StackQueue/
 --
 
 ## 🧰 Languages & Tools Used
@@ -80,10 +80,10 @@ This is a personal learning repo, but feel free to fork and star ⭐ if you find
 ## 🙋‍♂️ About Me
 
 **Name**: Bhuvanesh S  
-📧 Email: bhuvaneshcsessn@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/bhuvanesh-cse)
-👨‍💻 [GitHub](https://github.com/BHUVANESH-SSN)
-🎓 [GeeksForGeeks](https://www.geeksforgeeks.org/user/bhuvanesh27/)
+## 📧 Email: bhuvaneshcsessn@gmail.com
+## 🔗 [LinkedIn](www.linkedin.com/in/bhuvanesh-cse)
+## 👨‍💻 [GitHub](https://github.com/BHUVANESH-SSN)
+## 🎓 [GeeksForGeeks](https://www.geeksforgeeks.org/user/bhuvanesh27/)
 
 ---
 
