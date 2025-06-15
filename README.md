@@ -1,6 +1,6 @@
 # 💻 GFG 160 DSA Problem Solutions 🚀
 
-Welcome to my curated collection of solutions for the **"160 Most Asked DSA Problems"** from [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhuvanesh27/).  
+Welcome to my curated collection of solutions for the **"160 Most Asked DSA Problems"** from [GeeksforGeeks](https://www.geeksforgeeks.org/courses/gfg-160-series).  
 This repository serves as a **personal roadmap to mastering data structures and algorithms** and preparing for coding interviews at top tech companies.
 
 ---
@@ -49,7 +49,7 @@ Each problem is organized under its topic:
 ## 🌐 My GFG Profile
 
 You can find all my submitted solutions, streaks, and other achievements on:  
-🔗 [https://www.geeksforgeeks.org/user/bhuvanesh27/](https://www.geeksforgeeks.org/user/bhuvanesh27/)
+🔗 [My GFG Profile](https://www.geeksforgeeks.org/user/bhuvanesh27/)
 
 ---
 
