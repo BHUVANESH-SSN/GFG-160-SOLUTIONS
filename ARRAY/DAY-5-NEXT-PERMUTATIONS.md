@@ -77,7 +77,7 @@ void nextPermutation(vector<int> &arr) {
    
     reverse(arr.begin() + pivot + 1, arr.end());
 }
-
+```
 ## 🧠 Explanation of Steps
 
 ### 🔹 1. Find the Pivot
