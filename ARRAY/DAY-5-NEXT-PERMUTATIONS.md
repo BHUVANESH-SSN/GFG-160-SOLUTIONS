@@ -46,6 +46,7 @@ Next permutation after sorting the suffix.
 
 ## ✅ C++ Code: Efficient Next Permutation
 
+## ✅ Solution 1: Manual Next Permutation
 ```cpp
 
 void nextPermutation(vector<int> &arr) {
@@ -78,6 +79,27 @@ void nextPermutation(vector<int> &arr) {
     reverse(arr.begin() + pivot + 1, arr.end());
 }
 ```
+
+## Solution 2 :  Using STL std::next_permutation()
+```cpp
+#include <algorithm>
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+    vector<int> arr = { 2, 4, 1, 7, 5, 0 };
+
+    
+    next_permutation(arr.begin(), arr.end());
+
+    for (int num : arr)
+        cout << num << " ";
+
+    return 0;
+}
+```
+
 ## 🧠 Explanation of Steps
 
 ### 🔹 1. Find the Pivot
