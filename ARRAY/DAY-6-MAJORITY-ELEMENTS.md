@@ -61,7 +61,7 @@ class Solution {
 -Not optimal for large datasets.
 
 
-✅ Solution 2: Boyer-Moore Voting Algorithm (Optimized)
+## ✅ Solution 2: Boyer-Moore Voting Algorithm (Optimized)
 
 ## CODE
 ```cpp
@@ -105,7 +105,7 @@ class Solution {
         return res;
     }
 };
-
+```
 ### ✅ Pros:
 - Optimal time: **O(n)**
 - Space efficient: **O(1)** (in-place algorithm)
