@@ -90,3 +90,9 @@ class Solution {
 };
 ```
 ---
+## 📊 Time and Space Complexity
+
+| Approach           | Time Complexity | Space Complexity | Notes                        |
+|--------------------|------------------|-------------------|-------------------------------|
+| Naive Recursion    | O(2^n)           | O(1)              | ❌ Very slow, just educational |
+| Greedy Accumulate  | O(n)             | O(1)              | ✅ Best, used in production    |
