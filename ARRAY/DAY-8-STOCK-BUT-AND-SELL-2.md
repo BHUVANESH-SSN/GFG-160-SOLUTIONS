@@ -1,4 +1,4 @@
-# 💹 Best Time to Buy and Sell Stock – One Transaction Allowed
+#  Best Time to Buy and Sell Stock – One Transaction Allowed
 
 ---
 
