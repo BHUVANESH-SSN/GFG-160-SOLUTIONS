@@ -92,9 +92,5 @@ int getMinDiff(vector<int> &arr, int k) {
 
 ---
 
-## 📚 Related Concepts
 
-- 🔁 **Greedy Algorithms**
-- 📉 **Difference Minimization**
-- 🔤 **Sorting-based Problem Solving**
 
